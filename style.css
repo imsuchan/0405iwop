@@ -1,0 +1,45 @@
+body{
+  font-family: 'Quicksand',sans-serif;
+  margin: 0px;
+}
+h1{
+  display: inline;
+  font-size: 50px;
+  margin-left: 170px;
+  font-weight: normal;
+}
+ul{
+  margin: 0px;
+  line-height: 63px;
+  list-style-type: none;
+  float: right;
+  margin-right: 130px;
+}
+
+li{
+  font-size: 20px;
+  float: left;
+  margin-right: 40px;
+}
+nav{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+h2{
+  font-size: 30px;
+}
+.container{
+  line-height: 1.5;
+  font-size: 20px;
+}
+#inbox{
+  display: inline;
+  float: left;
+  width: 35%;
+  margin-left: 170px;
+}
+#inbox_2{
+  display: inline;
+  float: left;
+  margin-left: 170px;
+  width: 35%;
+}
